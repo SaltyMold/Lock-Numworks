@@ -3,7 +3,7 @@
 #include "assets/lock_closed.h"
 #include "assets/lock_open.h"
 
-#define SIMULATOR 1
+#define SIMULATOR 0
 
 const char eadk_app_name[] __attribute__((section(".rodata.eadk_app_name"))) = "Lock";
 const uint32_t eadk_api_level  __attribute__((section(".rodata.eadk_api_level"))) = 0;
