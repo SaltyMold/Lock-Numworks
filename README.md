@@ -12,8 +12,10 @@
 
 _The lock prevent anyone from accessing the calculator. The only way to bypass it is to reset the calculator._
 
-<img src="assets/github/lock.png" width="250" alt="lock">
-<img src="assets/github/unlock.png" width="250" alt="unlock">
+<img src="assets/github/lock.png" width="250" alt="lock"> <img src="assets/github/unlock.png" width="250" alt="unlock">
+
+
+
 
 ## 📕 Install the app
 
