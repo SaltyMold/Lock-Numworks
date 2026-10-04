@@ -36,4 +36,3 @@ To install this app, you'll need to:
 
 I made tutorials here :
 - [C-App-Guide-for-Numworks](https://github.com/SaltyMold/C-App-Guide-for-Numworks)
-- [Numworks-App-Development-Template](https://github.com/SaltyMold/Numworks-App-Development-Template)
