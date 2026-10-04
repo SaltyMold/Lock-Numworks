@@ -17,13 +17,13 @@ _The lock prevent anyone from accessing the calculator. The only way to bypass i
 
 
 
-## 📕 Install the app
+## Install the app
 
 To install this app, you'll need to:
 1. Download the latest **`.nwa` file** from the **[Releases](https://github.com/SaltyMold/Lock-Numworks/releases) page**
 2. Head to **[my.numworks.com/apps](https://my.numworks.com/apps)** to send the **`nwa` file** on your calculator.
 
-## ⚙️ How to use the app
+## How to use the app
 
 | Key               | Action            |
 |-------------------|-------------------|
@@ -32,7 +32,7 @@ To install this app, you'll need to:
 | All number keys   | Type the password |
 | Backspace         | Delete last digit |
 
-## 🛠️ Build the app
+## Build the app
 
 I made tutorials here :
 - [C-App-Guide-for-Numworks](https://github.com/SaltyMold/C-App-Guide-for-Numworks)
